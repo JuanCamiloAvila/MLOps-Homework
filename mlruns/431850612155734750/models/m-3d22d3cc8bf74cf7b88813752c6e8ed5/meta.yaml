@@ -1,0 +1,10 @@
+artifact_location: file:///home/uwu/MLOps/T01/mlruns/431850612155734750/models/m-3d22d3cc8bf74cf7b88813752c6e8ed5/artifacts
+creation_timestamp: 1759531932101
+experiment_id: '431850612155734750'
+last_updated_timestamp: 1759531935264
+model_id: m-3d22d3cc8bf74cf7b88813752c6e8ed5
+model_type: null
+name: model
+source_run_id: 84367d8b3f364517955ab708cc2acca8
+status: 2
+status_message: null

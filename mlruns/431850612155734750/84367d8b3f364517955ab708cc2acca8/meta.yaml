@@ -1,0 +1,14 @@
+artifact_uri: file:///home/uwu/MLOps/T01/mlruns/431850612155734750/84367d8b3f364517955ab708cc2acca8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '431850612155734750'
+lifecycle_stage: active
+run_id: 84367d8b3f364517955ab708cc2acca8
+run_name: sneaky-sponge-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759531931989
+status: 1
+tags: []
+user_id: uwu
